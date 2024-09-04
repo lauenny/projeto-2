@@ -1,4 +1,12 @@
 body {
-    color:blueviolet;
-    background:violet;
-    }
+    color: rgb(0, 0, 0);
+    background:rgb(228, 47, 47);
+}
+
+header {
+     border: solid 2px white;
+}
+
+section{
+    background:rgb(218, 51, 51)
+}
